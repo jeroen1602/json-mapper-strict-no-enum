@@ -1,0 +1,6 @@
+{
+  "require": {
+    "netresearch/jsonmapper": "^5.0.0",
+    "php": "^8.4"
+  }
+}
